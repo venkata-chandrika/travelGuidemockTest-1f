@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #eef4f7;
+  min-height: 100vh;
+}
+.btn-heading {
+  background-color: transparent;
+  outline: none;
+  border-bottom: 2px solid #52bbf0;
+  color: #334155;
+  font-weight: bold;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
+.travel-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
